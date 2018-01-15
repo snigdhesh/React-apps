@@ -1,1 +1,0 @@
-require('./components/main/main.component.js');
