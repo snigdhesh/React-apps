@@ -1,1 +1,1 @@
-console.log("You are in footer component");
+console.log("You are in footer component, updated footer");
